@@ -169,7 +169,7 @@ body {
 }
 
 .picked::before{
-    content: 'VETADO';
+    content: 'PICKED';
     background-color: rgb(134, 208, 118);
     position: absolute;
     width: 100%;
